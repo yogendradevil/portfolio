@@ -1,17 +1,18 @@
 import fetch from "node-fetch";
 import fs from "fs";
 import dotenv from "dotenv";
+import { env } from "process";
 
 dotenv.config();
-
 const openSource = {
-  githubConvertedToken: process.env.GITHUB_TOKEN,
-  githubUserName: process.env.GITHUB_USERNAME,
+  githubConvertedToken: env.GITHUB_TOKEN,
+  githubUserName: env.GITHUB_USERNAME,
 };
 
 const query_pr = {
   query: `
 	query {
+    console.log(env.GITHUB_TOKEN);
 	  user(login: "${openSource.githubUserName}"){
 	    pullRequests(last: 100, orderBy: {field: CREATED_AT, direction: DESC}){
       totalCount
