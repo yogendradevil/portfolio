@@ -1,7 +1,7 @@
 {
   "private": true,
   "name": "Yogendra R Bijapur",
-  "homepage": "https://yogendradevil.github.io/portfolio",
+  "homepage": "https://github.com/yogendradevil",
   "version": "0.1.0",
   "scripts": {
     "build": "react-scripts build",
