@@ -20,12 +20,12 @@ const seo = {
 const greeting = {
   title: "Yogendra Bijapur",
   logo_name: "YogendraBijapur",
-  nickname: "yogi",
+  nickname: "",
   subTitle: "A passionate Web Devloper and Pentester",
   resumeLink:
     // "https://drive.google.com/file/d/1FL_wydnPF2SWCdw2goYAgZ1KKBx8TpcD/view?usp=sharing",
     "https://github.com/yogendradevil/resume/blob/main/Yogendra%2020BCY10065.pdf",
-  portfolio_repository: "https://github.com/yogendradevil/portfolio",
+  portfolio_repository: "https://github.com/yogendradevil",
   githubProfile: "https://github.com/yogendradevil",
 };
 
@@ -380,9 +380,9 @@ const degrees = {
       alt_name: "VIT Bhopal",
       duration: "2020 - 2024",
       descriptions: [
-        "⚡ I have studied basic software engineering subjects like DS, Algorithms, DBMS, OS, CA, AI etc.",
-        "⚡ Apart from this, I have done courses on Deep Learning, Data Science, Cloud Computing and Full Stack Development.",
-        "⚡ I was selected for Merit cum Means Scholarship which is given to top 10% of students in college. I have received award from respected director for consistently best performance in academics.",
+        "⚡ Bachelor's degree in Computer Science Engineering with a specialization in Cybersecurity.",
+        "⚡ Strong technical skills in programming languages, database management, and operating systems.",
+        "⚡ Knowledgeable in implementing security measures such as access control, firewalls, and encryption to protect computer systems and networks from cyber threats.",
       ],
       website_link: "https://vitbhopal.ac.in/",
     },
@@ -518,7 +518,7 @@ const certifications = {
 // Experience Page
 const experience = {
   title: "Experience",
-  subtitle: "Work, Internship and Volunteership",
+  subtitle: "",
   description: "",
   header_image_path: "experience.svg",
   sections: [
@@ -666,7 +666,7 @@ const experience = {
 const projectsHeader = {
   title: "Projects",
   description:
-    "My projects makes use of vast variety of latest technology tools. My best experience is to create Data Science projects and deploy them to web applications using cloud infrastructure.",
+    "My projects makes use of vast variety of latest technology tools. My best experience was to create Text Analyzer by using React JS.",
   avatar_image_path: "projects_image.svg",
 };
 
@@ -726,23 +726,24 @@ const publications = {
 const contactPageData = {
   contactSection: {
     title: "Contact Me",
-    profile_image_path: "animated_ashutosh.png",
+    profile_image_path: "contact.png",
     description:
-      "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with ML, AI, React, Android, Cloud and Opensource Development.",
+      "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with Web Development, Cyber Security.",
   },
   blogSection: {
     title: "Blogs",
     subtitle:
-      "For individual fundamental empowerment, I like to write powerful lessons that create impact on each of the reader individually to change the core of their character.",
-    link: "https://blogs.ashutoshhathidara.com/",
+      "I like to write blogs on Cybersecurity, Web Development, and Tech related content.",
+    link: "https://www.linkedin.com/in/yogendrabijapur/",
     avatar_image_path: "blogs_image.svg",
   },
   addressSection: {
     title: "Address",
     subtitle:
-      "Ambavadi vas, Kanodar, T.A.-Palanpur, Dist.-Banaskantha, Gujarat - 385520",
+      "#577 Post: Tirlapur Tq: Navalgund Dis: Dharwad  State: Karnataka - 582208",
     avatar_image_path: "address_image.svg",
-    location_map_link: "https://goo.gl/maps/MpMqtRZytFchMkZ76",
+    location_map_link:
+      "https://www.google.com/maps/place/Tirlapur,+Karnataka+582208",
   },
   phoneSection: {
     title: "",

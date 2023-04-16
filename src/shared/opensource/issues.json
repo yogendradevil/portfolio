@@ -1,9 +1,9 @@
 {
-  "closed": 2,
+  "closed": 3,
   "data": [
     {
       "id": "I_kwDODqGIis5jgrr4",
-      "closed": false,
+      "closed": true,
       "title": "GITHUB details in website",
       "createdAt": "2023-04-15T17:51:40Z",
       "url": "https://github.com/ashutosh1919/masterPortfolio/issues/285",
@@ -68,6 +68,6 @@
       }
     }
   ],
-  "open": 1,
+  "open": 0,
   "totalCount": 3
 }
