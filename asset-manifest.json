@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.2773f2fd.css",
-    "main.js": "/portfolio/static/js/main.4b38e333.js",
+    "main.js": "/portfolio/static/js/main.febe127d.js",
     "static/media/portfolio.gif": "/portfolio/static/media/portfolio.ed6c89f1485f23014ebd.gif",
     "static/media/fa-solid-900.svg": "/portfolio/static/media/fa-solid-900.9fa614346b4e81decc62.svg",
     "static/media/fa-brands-400.svg": "/portfolio/static/media/fa-brands-400.6fcab609e2f62d5c3104.svg",
@@ -38,6 +38,7 @@
     "static/media/iiitk_logo.png": "/portfolio/static/media/iiitk_logo.170d558551a09a7d1620.png",
     "static/media/intel_logo.jpg": "/portfolio/static/media/intel_logo.d7577f35a3dac4e5636d.jpg",
     "static/media/ui_ux_design.svg": "/portfolio/static/media/ui_ux_design.42a2cdaf132097cc499e.svg",
+    "static/media/aws.png": "/portfolio/static/media/aws.7d82270d39355f9edc6e.png",
     "static/media/manOnTable.svg": "/portfolio/static/media/manOnTable.f861b03b5a2d1a28c198.svg",
     "static/media/muffito_logo.png": "/portfolio/static/media/muffito_logo.a40e290031eaf389bde1.png",
     "static/media/cisco.png": "/portfolio/static/media/cisco.66b502dafc132d8f48c3.png",
@@ -61,6 +62,7 @@
     "static/media/feelingProud.svg": "/portfolio/static/media/feelingProud.288e616ff8dc11bd4713.svg",
     "static/media/cloud_infrastructure.svg": "/portfolio/static/media/cloud_infrastructure.20b580f8784fe74e6e38.svg",
     "static/media/blogs_image.svg": "/portfolio/static/media/blogs_image.08bcc48d9a3783389c93.svg",
+    "static/media/CEH-logo.jpg": "/portfolio/static/media/CEH-logo.67cced008b1df673f1c2.jpg",
     "static/media/data_science.svg": "/portfolio/static/media/data_science.9dcadb158ebe250997f6.svg",
     "static/media/fullstack.svg": "/portfolio/static/media/fullstack.32a1ffc74848a2ed7dbf.svg",
     "static/media/education.svg": "/portfolio/static/media/education.d5cc42f042227db12468.svg",
@@ -69,10 +71,10 @@
     "static/media/talksCardBackAlt.svg": "/portfolio/static/media/talksCardBackAlt.018d87225926eee9ccc3.svg",
     "static/media/talksCardBack.svg": "/portfolio/static/media/talksCardBack.7dc8695e60efbc2baab8.svg",
     "main.2773f2fd.css.map": "/portfolio/static/css/main.2773f2fd.css.map",
-    "main.4b38e333.js.map": "/portfolio/static/js/main.4b38e333.js.map"
+    "main.febe127d.js.map": "/portfolio/static/js/main.febe127d.js.map"
   },
   "entrypoints": [
     "static/css/main.2773f2fd.css",
-    "static/js/main.4b38e333.js"
+    "static/js/main.febe127d.js"
   ]
 }
